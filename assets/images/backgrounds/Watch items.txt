@@ -1,0 +1,35 @@
+1. Real-Time Clock(DS3231M)
+2. Reset button
+3. Voltage Regulator(XC6209)
+4. Battery Pinout
+5. Autoswitching Power Mux (TPS2115A)
+6. PowerLed
+7. Enable button
+8. Charge Controller(MCP73831)
+9. Usb micro B
+10. Menu 2 button
+11. Usb-Serial (CH340E)
+12. Micro-Controller (T-Micro 32)
+13. Accel/Step Sensor(BMA400)
+14. Menu 1 button
+15. TFT 240*240p Connetor
+16. Pulse Oximeter
+17. LORA Chip
+
+
+1. Crystal (16Mhz)
+2. Multipurpose Input button
+3. Condensor Microphone pinout
+4. Dual Operational Amplifiers(LM2904DR)
+5. Comparator Differential (LM293D)
+6. Piezo Electric Sensor pinout
+7. Battery Charge Status (RGB Led)
+8. Voltage Regulator (XC6209)
+9. LORA Chip
+10. Charge Controller(MCP73831)
+11. Power Led
+12. Battery Pinout
+13. Autoswitching Power Mux (TPS2115A)
+14. Micro-Controller (Atmega-328)
+15. RF Transmitter Antennae
+16. Potentiometer (PVG3A200C01R00)

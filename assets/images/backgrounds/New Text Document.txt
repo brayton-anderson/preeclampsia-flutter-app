@@ -1,0 +1,16 @@
+1. Real-Time Clock(DS3231M)
+2. Reset button
+3. Voltage Regulator(XC6209)
+4. Battery Pinout
+5. Autoswitching Power Mux (TPS2115A)
+6. PowerLed
+7. Enable button
+8.Charge Controller(MCP73831)
+9. Usb micro B
+10. Menu 2 button
+11. Usb-Serial (CH340E)
+12. Micro-Controller (T-Micro 32)
+13. Accel/Step Sensor(BMA400)
+14. Menu 1 button
+15. TFT 240*240p Connetor
+16. Pulse Oximeter
